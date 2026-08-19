@@ -30,7 +30,7 @@ KPI 7 — Age Distribution
 KPI 8 — Department Referrals
 -Which departments receive the highest number of patient referrals?
 
--Dashboard Interaction <a href="https
+-Dashboard Interaction <a href="https://github.com/pavandolle/Hospital-Emergency-Room-Analysis-Dashboard-Excel/blob/main/Final%20Dashboard%20of%20Hospital%20emergency%20room2.png">View Dashboard </a>
 ## 4. Project Process
 The project was completed through an end-to-end data analytics workflow:
 Step 1 — Business Requirement Gathering
@@ -55,6 +55,11 @@ Step 10 — Dashboard Development
 Combined KPIs, charts, filters, and interactive elements into the final Excel dashboard.
 Step 11 — Insights Generation
 Analyzed the dashboard results and identified important patterns in the ER data.
+
+## 5. Dashboard
+<img width="1472" height="602" alt="Final Dashboard of Hospital emergency room2" src="https://github.com/user-attachments/assets/31bc73d8-c050-4c2c-a26b-a6bb1e6164ac" />
+
+
 
 
 
