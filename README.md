@@ -8,25 +8,33 @@ The dashboard is designed to convert raw hospital data into meaningful informati
 
 ## 3. Business Questions / KPIs
 The dashboard answers the following key questions:
+
 KPI 1 — Total Patients
 -How many patients visited the emergency room?
 -What is the daily patient volume trend?
+
 KPI 2 — Average Wait Time
 -What is the average time patients waited to see a medical professional?
 -Are there days with unusually high waiting times?
+
 KPI 3 — Patient Satisfaction
 -What is the average patient satisfaction score?
 -How does satisfaction change over time?
+
 KPI 4 — Patient Admission Status
 -How many patients were Admitted?
 -How many were Not Admitted?
+
 KPI 5 — Timeliness
 -What percentage of patients were seen within 30 minutes?
 -What percentage experienced a delay?
+
 KPI 6 — Gender Analysis
 -What is the distribution of patients by gender?
+
 KPI 7 — Age Distribution
 -Which age groups have the highest number of patients?
+
 KPI 8 — Department Referrals
 -Which departments receive the highest number of patient referrals?
 
